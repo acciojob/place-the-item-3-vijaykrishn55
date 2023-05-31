@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.one{
+	width:500px;
+	padding:10px;
+}
+.holder{
+	display :flex;
+	width:500px;
+	flex-wrap:wrap;
+	flex-direction: row;
+	justify-content:space-evenly;
+	
+}
